@@ -1,6 +1,9 @@
 {
-	"ip":"play.epicsmppro.tk",
-	"port": "37421",
-	"name": "EpicSmpBot",
-	"auto-night-skip":"false"
+	"ip":"free5.falix.cc",
+	"port": 37421,
+	"name": "EpicSmp",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (type_ur_pass_here(remember_no_spaces)) (type_ur_pass_here(remember_no_spaces))",
+	"login-cmd":"/login (type_ur_pass_here)"
 }
