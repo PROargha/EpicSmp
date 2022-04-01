@@ -4,6 +4,6 @@
 	"name": "EpicSmp",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
-	"register-cmd":"/register arghaabir11 arghaabir11",
-	"login-cmd":"/login arghaabir11"
+	"register-cmd":"/register (arghaabir11) (arghaabir11)",
+	"login-cmd":"/login (arghaabir11)"
 }
