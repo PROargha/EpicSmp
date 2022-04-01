@@ -1,6 +1,6 @@
 {
 	"ip":"play.epicsmppro.tk",
-	"port": 37421,
+	"port": "37421",
 	"name": "EpicSmp",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
