@@ -1,7 +1,7 @@
 {
-	"ip":"play.epicsmppro.tk",
-	"port": "37421",
-	"name": "EpicSmp",
+	"ip":"game2.falix.cc",
+	"port": "36998",
+	"name": "lobby",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
 	"register-cmd":"/register (arghaabir11) (arghaabir11)",
